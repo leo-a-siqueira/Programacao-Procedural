@@ -16,9 +16,8 @@ class Program
         Console.WriteLine("Digite a 4° nota:");
         Double nota4 = Double.Parse(Console.ReadLine());
 
-        //Processamento
+        
         Double resultado = (nota1 + nota2 + nota3 + nota4) / 4;
-
         Console.WriteLine("A média do aluno é " + resultado);
 
     }
