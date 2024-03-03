@@ -8,10 +8,10 @@
 
         while (contador <= finalNota)
         {
-            Piano.ReproduzTecla(3, contador);
+            Piano.ReproduzTecla(2, contador);
             contador++;
         }
-        Piano.ReproduzTecla(4,1);
+        Piano.ReproduzTecla(3,1);
 
       
 
