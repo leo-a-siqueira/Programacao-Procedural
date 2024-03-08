@@ -1,0 +1,15 @@
+C:\Users\Leonardo\OneDrive\Documents\DEv\Curso\Programacao-Procedural\Listas\Lista3\Atividade2\bin\Debug\net8.0\Atividade2.exe
+C:\Users\Leonardo\OneDrive\Documents\DEv\Curso\Programacao-Procedural\Listas\Lista3\Atividade2\bin\Debug\net8.0\Atividade2.deps.json
+C:\Users\Leonardo\OneDrive\Documents\DEv\Curso\Programacao-Procedural\Listas\Lista3\Atividade2\bin\Debug\net8.0\Atividade2.runtimeconfig.json
+C:\Users\Leonardo\OneDrive\Documents\DEv\Curso\Programacao-Procedural\Listas\Lista3\Atividade2\bin\Debug\net8.0\Atividade2.dll
+C:\Users\Leonardo\OneDrive\Documents\DEv\Curso\Programacao-Procedural\Listas\Lista3\Atividade2\bin\Debug\net8.0\Atividade2.pdb
+C:\Users\Leonardo\OneDrive\Documents\DEv\Curso\Programacao-Procedural\Listas\Lista3\Atividade2\obj\Debug\net8.0\Atividade2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonardo\OneDrive\Documents\DEv\Curso\Programacao-Procedural\Listas\Lista3\Atividade2\obj\Debug\net8.0\Atividade2.AssemblyInfoInputs.cache
+C:\Users\Leonardo\OneDrive\Documents\DEv\Curso\Programacao-Procedural\Listas\Lista3\Atividade2\obj\Debug\net8.0\Atividade2.AssemblyInfo.cs
+C:\Users\Leonardo\OneDrive\Documents\DEv\Curso\Programacao-Procedural\Listas\Lista3\Atividade2\obj\Debug\net8.0\Atividade2.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\OneDrive\Documents\DEv\Curso\Programacao-Procedural\Listas\Lista3\Atividade2\obj\Debug\net8.0\Atividade2.sourcelink.json
+C:\Users\Leonardo\OneDrive\Documents\DEv\Curso\Programacao-Procedural\Listas\Lista3\Atividade2\obj\Debug\net8.0\Atividade2.dll
+C:\Users\Leonardo\OneDrive\Documents\DEv\Curso\Programacao-Procedural\Listas\Lista3\Atividade2\obj\Debug\net8.0\refint\Atividade2.dll
+C:\Users\Leonardo\OneDrive\Documents\DEv\Curso\Programacao-Procedural\Listas\Lista3\Atividade2\obj\Debug\net8.0\Atividade2.pdb
+C:\Users\Leonardo\OneDrive\Documents\DEv\Curso\Programacao-Procedural\Listas\Lista3\Atividade2\obj\Debug\net8.0\Atividade2.genruntimeconfig.cache
+C:\Users\Leonardo\OneDrive\Documents\DEv\Curso\Programacao-Procedural\Listas\Lista3\Atividade2\obj\Debug\net8.0\ref\Atividade2.dll
