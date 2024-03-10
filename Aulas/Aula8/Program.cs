@@ -5,6 +5,8 @@ class Program
     static void Main(string[] args)
     {
         Tabuleiro.InicializaTabuleiro();
-        Tabuleiro.ImprimeTabuleiro();
+        Tabuleiro.ImprimeTabuleiro
+
+    System.Console.WriteLine("Valor" + Math.Round() );
     }
 }
