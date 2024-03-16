@@ -99,7 +99,7 @@ Tabuleiro.InicializaTabuleiro();
         {
           if(i2 % 2 != 0)
           {
-            Tabuleiro.Adicionar(i,i2, "B");
+            Tabuleiro.Adicionar(i,i2, "B");            
           }
         }
       }
@@ -140,10 +140,13 @@ class Tabuleiro
             for (int coluna = 0; coluna < TAMANHO_TABULEIRO; coluna++)
             {
                 System.Console.Write($"| {tabuleiro[linha, coluna]} ");
+                Thread.Sleep(50);
             }
+            
             System.Console.WriteLine("|");
             System.Console.Write("  ---------------------------------");
             System.Console.WriteLine();
+            
         }
     }
 
