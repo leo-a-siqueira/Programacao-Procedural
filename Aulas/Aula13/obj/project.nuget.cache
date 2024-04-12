@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "kdn1az+E245Xj6e/dVfK4As7GdUAAcECUJm/4a/PVbESREfmwR8doY3E6wkhaXtT9M2YFTdTrwoQ+D+jtVxGXQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Leonardo\\OneDrive\\Documents\\DEv\\Curso\\Programacao-Procedural\\Aulas\\Aula13\\Aula13.csproj",
+=======
+  "dgSpecHash": "IQt33LtcMRZDfi88zXM6e9RkxP7mHAVDxYzyyfYLmlhd4uOTigd91SfGVqRMtuG4S3DuKh1dP513f5LnbUqIiw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\IFSP\\Documents\\C#\\Programacao-Procedural\\Aulas\\Aula13\\Aula13.csproj",
+>>>>>>> 371859899ca14391330aa924f7ea5cc3d05cd7f1
   "expectedPackageFiles": [],
   "logs": []
 }

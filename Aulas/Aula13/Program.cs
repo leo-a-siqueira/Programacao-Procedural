@@ -1,4 +1,5 @@
 ﻿using System;
+<<<<<<< HEAD
 using System.Diagnostics.Contracts;
 
 class Program
@@ -53,5 +54,13 @@ class Program
     {
 
         Viajar();
+=======
+
+class Program
+{
+    static void Main(string[] args)
+    {
+      Exercicio2.Main();
+>>>>>>> 371859899ca14391330aa924f7ea5cc3d05cd7f1
     }
 }

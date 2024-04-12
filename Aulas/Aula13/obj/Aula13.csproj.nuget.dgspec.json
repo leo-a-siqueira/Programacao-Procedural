@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\Leonardo\\OneDrive\\Documents\\DEv\\Curso\\Programacao-Procedural\\Aulas\\Aula13\\Aula13.csproj": {}
   },
   "projects": {
@@ -15,6 +16,22 @@
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Leonardo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+=======
+    "C:\\Users\\IFSP\\Documents\\C#\\Programacao-Procedural\\Aulas\\Aula13\\Aula13.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\IFSP\\Documents\\C#\\Programacao-Procedural\\Aulas\\Aula13\\Aula13.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\IFSP\\Documents\\C#\\Programacao-Procedural\\Aulas\\Aula13\\Aula13.csproj",
+        "projectName": "Aula13",
+        "projectPath": "C:\\Users\\IFSP\\Documents\\C#\\Programacao-Procedural\\Aulas\\Aula13\\Aula13.csproj",
+        "packagesPath": "C:\\Users\\IFSP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\IFSP\\Documents\\C#\\Programacao-Procedural\\Aulas\\Aula13\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\IFSP\\AppData\\Roaming\\NuGet\\NuGet.Config"
+>>>>>>> 371859899ca14391330aa924f7ea5cc3d05cd7f1
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -32,6 +49,14 @@
           "warnAsError": [
             "NU1605"
           ]
+<<<<<<< HEAD
+=======
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+>>>>>>> 371859899ca14391330aa924f7ea5cc3d05cd7f1
         }
       },
       "frameworks": {
@@ -53,7 +78,11 @@
               "privateAssets": "all"
             }
           },
+<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+=======
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+>>>>>>> 371859899ca14391330aa924f7ea5cc3d05cd7f1
         }
       }
     }

@@ -8,6 +8,10 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Aula13
+<<<<<<< HEAD
 build_property.ProjectDir = C:\Users\Leonardo\OneDrive\Documents\DEv\Curso\Programacao-Procedural\Aulas\Aula13\
+=======
+build_property.ProjectDir = C:\Users\IFSP\Documents\C#\Programacao-Procedural\Aulas\Aula13\
+>>>>>>> 371859899ca14391330aa924f7ea5cc3d05cd7f1
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
