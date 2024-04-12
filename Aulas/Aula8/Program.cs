@@ -7,6 +7,6 @@ class Program
         Tabuleiro.InicializaTabuleiro();
         Tabuleiro.ImprimeTabuleiro
 
-    System.Console.WriteLine("Valor" + Math.Round() );
+    
     }
 }

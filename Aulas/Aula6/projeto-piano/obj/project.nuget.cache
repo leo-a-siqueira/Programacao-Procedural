@@ -1,19 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "asn62BbAAYQud2UPSqknAJSHXVEgDp2YD6bI/egmYCYN8dWkmlLqxg7uJDlwQZ4dlBuzRHxXP4+BB6Aj9CsHBA==",
+  "dgSpecHash": "JTC7IUaDxiyplhuQsVtNUYnei8ETwyCzKzgAouxGXM6rAgIveP6r5tIqWOh83myzfG0x8M4joEgj0TzmW0DcXg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\IFSP\\Documents\\C#\\Programacao-Procedural\\Aulas\\Aula6\\projeto-piano\\projeto-piano.csproj",
+  "projectFilePath": "C:\\Users\\Leonardo\\OneDrive\\Documents\\DEv\\Curso\\Programacao-Procedural\\Aulas\\Aula6\\projeto-piano\\projeto-piano.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\IFSP\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
-    "C:\\Users\\IFSP\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
-    "C:\\Users\\IFSP\\.nuget\\packages\\naudio\\2.2.1\\naudio.2.2.1.nupkg.sha512",
-    "C:\\Users\\IFSP\\.nuget\\packages\\naudio.asio\\2.2.1\\naudio.asio.2.2.1.nupkg.sha512",
-    "C:\\Users\\IFSP\\.nuget\\packages\\naudio.core\\2.2.1\\naudio.core.2.2.1.nupkg.sha512",
-    "C:\\Users\\IFSP\\.nuget\\packages\\naudio.midi\\2.2.1\\naudio.midi.2.2.1.nupkg.sha512",
-    "C:\\Users\\IFSP\\.nuget\\packages\\naudio.wasapi\\2.2.1\\naudio.wasapi.2.2.1.nupkg.sha512",
-    "C:\\Users\\IFSP\\.nuget\\packages\\naudio.winmm\\2.2.1\\naudio.winmm.2.2.1.nupkg.sha512",
-    "C:\\Users\\IFSP\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
-    "C:\\Users\\IFSP\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512"
+    "C:\\Users\\Leonardo\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\Leonardo\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\Leonardo\\.nuget\\packages\\naudio\\2.2.1\\naudio.2.2.1.nupkg.sha512",
+    "C:\\Users\\Leonardo\\.nuget\\packages\\naudio.asio\\2.2.1\\naudio.asio.2.2.1.nupkg.sha512",
+    "C:\\Users\\Leonardo\\.nuget\\packages\\naudio.core\\2.2.1\\naudio.core.2.2.1.nupkg.sha512",
+    "C:\\Users\\Leonardo\\.nuget\\packages\\naudio.midi\\2.2.1\\naudio.midi.2.2.1.nupkg.sha512",
+    "C:\\Users\\Leonardo\\.nuget\\packages\\naudio.wasapi\\2.2.1\\naudio.wasapi.2.2.1.nupkg.sha512",
+    "C:\\Users\\Leonardo\\.nuget\\packages\\naudio.winmm\\2.2.1\\naudio.winmm.2.2.1.nupkg.sha512",
+    "C:\\Users\\Leonardo\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\Leonardo\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512"
   ],
   "logs": []
 }

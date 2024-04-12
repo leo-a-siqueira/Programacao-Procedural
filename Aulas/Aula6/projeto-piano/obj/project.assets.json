@@ -451,19 +451,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\IFSP\\.nuget\\packages\\": {}
+    "C:\\Users\\Leonardo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\IFSP\\Documents\\C#\\Programacao-Procedural\\Aulas\\Aula6\\projeto-piano\\projeto-piano.csproj",
+      "projectUniqueName": "C:\\Users\\Leonardo\\OneDrive\\Documents\\DEv\\Curso\\Programacao-Procedural\\Aulas\\Aula6\\projeto-piano\\projeto-piano.csproj",
       "projectName": "projeto-piano",
-      "projectPath": "C:\\Users\\IFSP\\Documents\\C#\\Programacao-Procedural\\Aulas\\Aula6\\projeto-piano\\projeto-piano.csproj",
-      "packagesPath": "C:\\Users\\IFSP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\IFSP\\Documents\\C#\\Programacao-Procedural\\Aulas\\Aula6\\projeto-piano\\obj\\",
+      "projectPath": "C:\\Users\\Leonardo\\OneDrive\\Documents\\DEv\\Curso\\Programacao-Procedural\\Aulas\\Aula6\\projeto-piano\\projeto-piano.csproj",
+      "packagesPath": "C:\\Users\\Leonardo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Leonardo\\OneDrive\\Documents\\DEv\\Curso\\Programacao-Procedural\\Aulas\\Aula6\\projeto-piano\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\IFSP\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Leonardo\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -481,11 +481,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -513,7 +508,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,0 +1,15 @@
+C:\Users\Leonardo\OneDrive\Documents\DEv\Curso\Programacao-Procedural\Aulas\Aula14\bin\Debug\net8.0\Aula14.exe
+C:\Users\Leonardo\OneDrive\Documents\DEv\Curso\Programacao-Procedural\Aulas\Aula14\bin\Debug\net8.0\Aula14.deps.json
+C:\Users\Leonardo\OneDrive\Documents\DEv\Curso\Programacao-Procedural\Aulas\Aula14\bin\Debug\net8.0\Aula14.runtimeconfig.json
+C:\Users\Leonardo\OneDrive\Documents\DEv\Curso\Programacao-Procedural\Aulas\Aula14\bin\Debug\net8.0\Aula14.dll
+C:\Users\Leonardo\OneDrive\Documents\DEv\Curso\Programacao-Procedural\Aulas\Aula14\bin\Debug\net8.0\Aula14.pdb
+C:\Users\Leonardo\OneDrive\Documents\DEv\Curso\Programacao-Procedural\Aulas\Aula14\obj\Debug\net8.0\Aula14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonardo\OneDrive\Documents\DEv\Curso\Programacao-Procedural\Aulas\Aula14\obj\Debug\net8.0\Aula14.AssemblyInfoInputs.cache
+C:\Users\Leonardo\OneDrive\Documents\DEv\Curso\Programacao-Procedural\Aulas\Aula14\obj\Debug\net8.0\Aula14.AssemblyInfo.cs
+C:\Users\Leonardo\OneDrive\Documents\DEv\Curso\Programacao-Procedural\Aulas\Aula14\obj\Debug\net8.0\Aula14.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\OneDrive\Documents\DEv\Curso\Programacao-Procedural\Aulas\Aula14\obj\Debug\net8.0\Aula14.sourcelink.json
+C:\Users\Leonardo\OneDrive\Documents\DEv\Curso\Programacao-Procedural\Aulas\Aula14\obj\Debug\net8.0\Aula14.dll
+C:\Users\Leonardo\OneDrive\Documents\DEv\Curso\Programacao-Procedural\Aulas\Aula14\obj\Debug\net8.0\refint\Aula14.dll
+C:\Users\Leonardo\OneDrive\Documents\DEv\Curso\Programacao-Procedural\Aulas\Aula14\obj\Debug\net8.0\Aula14.pdb
+C:\Users\Leonardo\OneDrive\Documents\DEv\Curso\Programacao-Procedural\Aulas\Aula14\obj\Debug\net8.0\Aula14.genruntimeconfig.cache
+C:\Users\Leonardo\OneDrive\Documents\DEv\Curso\Programacao-Procedural\Aulas\Aula14\obj\Debug\net8.0\ref\Aula14.dll
